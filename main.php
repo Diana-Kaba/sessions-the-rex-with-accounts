@@ -1,7 +1,3 @@
-<?php
-include 'db-actions.php';
-?>
-
 <!-- Hero Section start -->
 
 <div class="main-banner">

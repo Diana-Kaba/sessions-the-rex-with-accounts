@@ -1,3 +1,7 @@
+<?php
+include 'db-actions.php';
+?>
+
 <!-- ***** Header Area Start ***** -->
 <header class="header-area header-sticky">
   <div class="container">

@@ -41,7 +41,7 @@
     <!-- ***** Preloader End ***** -->
 
     <?php
-    include("header.html");
+    include("header.php");
     include("main.php");
     include("footer.html");
     ?>
